@@ -32,6 +32,16 @@ body {
   background: #d00;
   color: white;
 }
+.btn-ternary {
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+  border-radius: 10px;
+  background: #d00;
+  font-size: 20px;
+  font-weight: 400;
+  border: #d00;
+}
 .match-card {
   border-radius: 10px;
   background: #161616;
